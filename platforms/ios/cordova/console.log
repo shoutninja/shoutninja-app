@@ -1,0 +1,360 @@
+2014-12-17 15:00:12.777 chat[57591:415220] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/E207C5CB-B310-45CC-883A-FEB05AEDBB27/Library/Cookies/Cookies.binarycookies
+2014-12-17 15:00:14.724 chat[57591:415220] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-17 15:00:14.725 chat[57591:415220] Multi-tasking -> Device: YES, App: YES
+2014-12-17 15:00:14.771 chat[57591:415220] Unlimited access to network resources
+2014-12-17 15:00:16.831 chat[57591:415220] [CDVTimer][keyboard] 0.079989ms
+2014-12-17 15:00:16.831 chat[57591:415220] [CDVTimer][TotalPluginStartup] 0.790000ms
+2014-12-17 15:00:18.857 chat[57591:415220] Resetting plugins due to page load.
+2014-12-17 15:00:20.909 chat[57591:415220] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/C39B62FE-9EBD-4AA7-927D-12882293E285/chat.app/www/index.html#/tab/dash
+2014-12-18 18:07:49.525 chat[1920:15777] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/A3D13D2F-27FE-4ED5-B926-0DB0E1BDAC4A/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:07:49.869 chat[1920:15777] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:07:49.869 chat[1920:15777] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:07:49.871 chat[1920:15777] Unlimited access to network resources
+2014-12-18 18:07:50.151 chat[1920:15777] [CDVTimer][keyboard] 0.060022ms
+2014-12-18 18:07:50.151 chat[1920:15777] [CDVTimer][TotalPluginStartup] 0.241995ms
+2014-12-18 18:07:51.132 chat[1920:15777] Resetting plugins due to page load.
+2014-12-18 18:07:52.507 chat[1920:15777] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9318783B-3B5E-4D9A-AF90-1C1164CB4C46/chat.app/www/index.html#/tab/dash
+2014-12-18 18:09:22.096 chat[2136:16655] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/7CB877DB-B5A0-440D-978B-DA972FA5D122/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:09:22.324 chat[2136:16655] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:09:22.324 chat[2136:16655] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:09:22.326 chat[2136:16655] Unlimited access to network resources
+2014-12-18 18:09:22.566 chat[2136:16655] [CDVTimer][keyboard] 0.057995ms
+2014-12-18 18:09:22.566 chat[2136:16655] [CDVTimer][TotalPluginStartup] 0.243008ms
+2014-12-18 18:09:22.943 chat[2136:16655] Resetting plugins due to page load.
+2014-12-18 18:09:24.155 chat[2136:16655] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/C3F0B514-2BB1-40C8-8A09-B02697FEBD1A/chat.app/www/index.html#/tab/dash
+2014-12-18 18:11:19.601 chat[2370:17604] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/07D74ED6-1134-4758-8559-98F20719E13C/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:11:19.786 chat[2370:17604] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:11:19.787 chat[2370:17604] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:11:19.788 chat[2370:17604] Unlimited access to network resources
+2014-12-18 18:11:20.019 chat[2370:17604] [CDVTimer][keyboard] 0.060976ms
+2014-12-18 18:11:20.019 chat[2370:17604] [CDVTimer][TotalPluginStartup] 0.263989ms
+2014-12-18 18:11:20.336 chat[2370:17604] Resetting plugins due to page load.
+2014-12-18 18:11:21.149 chat[2370:17604] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/31790E01-CDDC-4BE8-82A1-26C2B6D93BEE/chat.app/www/index.html#/tab/dash
+2014-12-18 18:12:21.827 chat[2567:18288] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/8DD07237-C6F8-4490-B30A-7E2A56866A95/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:12:21.909 chat[2567:18288] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:12:21.909 chat[2567:18288] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:12:21.910 chat[2567:18288] Unlimited access to network resources
+2014-12-18 18:12:22.099 chat[2567:18288] [CDVTimer][keyboard] 0.060022ms
+2014-12-18 18:12:22.099 chat[2567:18288] [CDVTimer][TotalPluginStartup] 0.248969ms
+2014-12-18 18:12:22.162 chat[2567:18288] Resetting plugins due to page load.
+2014-12-18 18:12:23.184 chat[2567:18288] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/32FC052E-CFC6-4DEB-A3CE-A840BFB4830B/chat.app/www/index.html#/tab/dash
+2014-12-18 18:12:25.852 chat[2567:18288] test
+2014-12-18 18:12:40.046 chat[2567:18288] test
+2014-12-18 18:13:16.695 chat[2759:19048] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/A574F923-D3A8-49B9-9428-D4B409C6F264/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:13:16.916 chat[2759:19048] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:13:16.917 chat[2759:19048] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:13:16.918 chat[2759:19048] Unlimited access to network resources
+2014-12-18 18:13:17.146 chat[2759:19048] [CDVTimer][keyboard] 0.059009ms
+2014-12-18 18:13:17.146 chat[2759:19048] [CDVTimer][TotalPluginStartup] 0.254035ms
+2014-12-18 18:13:17.475 chat[2759:19048] Resetting plugins due to page load.
+2014-12-18 18:13:19.310 chat[2759:19048] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/644CEC54-70E2-4A18-A1F7-6936374D79D1/chat.app/www/index.html#/tab/dash
+2014-12-18 18:14:11.587 chat[2955:19862] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/CCE8E23E-2AC2-4CE2-8BE9-6CCBB0B90E31/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:14:11.852 chat[2955:19862] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:14:11.852 chat[2955:19862] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:14:11.853 chat[2955:19862] Unlimited access to network resources
+2014-12-18 18:14:12.123 chat[2955:19862] [CDVTimer][keyboard] 0.061989ms
+2014-12-18 18:14:12.123 chat[2955:19862] [CDVTimer][TotalPluginStartup] 0.248969ms
+2014-12-18 18:14:12.617 chat[2955:19862] Resetting plugins due to page load.
+2014-12-18 18:14:13.280 chat[2955:19862] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8EB820AD-FCBE-41BB-A298-1FE589C2FB47/chat.app/www/index.html#/tab/dash
+2014-12-18 18:22:33.098 chat[3617:23951] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/73FD1B5C-81E6-4CC2-9C45-A54DD87428EE/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:22:33.510 chat[3617:23951] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:22:33.511 chat[3617:23951] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:22:33.512 chat[3617:23951] Unlimited access to network resources
+2014-12-18 18:22:33.798 chat[3617:23951] [CDVTimer][keyboard] 0.060022ms
+2014-12-18 18:22:33.798 chat[3617:23951] [CDVTimer][TotalPluginStartup] 0.270009ms
+2014-12-18 18:22:34.848 chat[3617:23951] Resetting plugins due to page load.
+2014-12-18 18:22:35.746 chat[3617:23951] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/index.html#/tab/dash
+2014-12-18 18:22:57.857 chat[3617:23951] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/js/app.js:33:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+2014-12-18 18:22:59.110 chat[3617:23951] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/js/app.js:33:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/8D25CC42-8126-4966-987E-C5C548206DC0/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:28:01.824 chat[3981:25648] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/372D1BE6-626B-4AB7-977D-2AE75F7B14C5/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:28:01.929 chat[3981:25648] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:28:01.929 chat[3981:25648] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:28:01.931 chat[3981:25648] Unlimited access to network resources
+2014-12-18 18:28:02.160 chat[3981:25648] [CDVTimer][keyboard] 0.057042ms
+2014-12-18 18:28:02.161 chat[3981:25648] [CDVTimer][TotalPluginStartup] 0.245988ms
+2014-12-18 18:28:02.223 chat[3981:25648] Resetting plugins due to page load.
+2014-12-18 18:28:03.054 chat[3981:25648] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/index.html#/tab/dash
+2014-12-18 18:28:05.457 chat[3981:25648] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:28:07.228 chat[3981:25648] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/438102A9-60D2-4ADF-889A-9EB51B43F557/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:28:20.177 chat[4151:26106] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/BAD9C0DF-B47A-4EF5-AED6-D0D7172604B6/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:28:20.299 chat[4151:26106] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:28:20.299 chat[4151:26106] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:28:20.301 chat[4151:26106] Unlimited access to network resources
+2014-12-18 18:28:20.555 chat[4151:26106] [CDVTimer][keyboard] 0.093997ms
+2014-12-18 18:28:20.555 chat[4151:26106] [CDVTimer][TotalPluginStartup] 0.321984ms
+2014-12-18 18:28:20.619 chat[4151:26106] Resetting plugins due to page load.
+2014-12-18 18:28:21.085 chat[4151:26106] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/index.html#/tab/dash
+2014-12-18 18:28:24.269 chat[4151:26106] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:28:25.378 chat[4151:26106] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:28:25.597 chat[4151:26106] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:28:25.769 chat[4151:26106] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:28:25.953 chat[4151:26106] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:28:26.121 chat[4151:26106] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/62CC5D1B-1978-4DEA-8507-326C68EE8806/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:28:52.352 chat[4327:26672] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/97BBA126-2B09-443F-9C26-2B0691877D78/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:28:52.434 chat[4327:26672] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:28:52.434 chat[4327:26672] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:28:52.436 chat[4327:26672] Unlimited access to network resources
+2014-12-18 18:28:52.623 chat[4327:26672] [CDVTimer][keyboard] 0.060976ms
+2014-12-18 18:28:52.623 chat[4327:26672] [CDVTimer][TotalPluginStartup] 0.256002ms
+2014-12-18 18:28:52.683 chat[4327:26672] Resetting plugins due to page load.
+2014-12-18 18:28:54.239 chat[4327:26672] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/index.html#/tab/dash
+2014-12-18 18:28:56.130 chat[4327:26672] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:29:00.631 chat[4327:26672] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A3ACF07F-B3B6-4953-9A2B-9ADD931137A1/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:29:19.394 chat[4504:27189] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/A2336322-324E-45E5-9DAD-50FC529C8C9A/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:29:19.545 chat[4504:27189] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:29:19.546 chat[4504:27189] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:29:19.548 chat[4504:27189] Unlimited access to network resources
+2014-12-18 18:29:19.761 chat[4504:27189] [CDVTimer][keyboard] 0.061989ms
+2014-12-18 18:29:19.761 chat[4504:27189] [CDVTimer][TotalPluginStartup] 0.250041ms
+2014-12-18 18:29:20.102 chat[4504:27189] Resetting plugins due to page load.
+2014-12-18 18:29:20.664 chat[4504:27189] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/A1B87561-AC53-411C-B8ED-C10B12720DB0/chat.app/www/index.html#/tab/dash
+2014-12-18 18:29:26.804 chat[4667:27491] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/21CD3636-C112-4E04-AA13-D83DBCC7D574/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:29:26.918 chat[4667:27491] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:29:26.918 chat[4667:27491] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:29:26.920 chat[4667:27491] Unlimited access to network resources
+2014-12-18 18:29:27.140 chat[4667:27491] [CDVTimer][keyboard] 0.063002ms
+2014-12-18 18:29:27.140 chat[4667:27491] [CDVTimer][TotalPluginStartup] 0.257015ms
+2014-12-18 18:29:27.204 chat[4667:27491] Resetting plugins due to page load.
+2014-12-18 18:29:28.140 chat[4667:27491] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/index.html#/tab/dash
+2014-12-18 18:29:34.677 chat[4667:27491] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:29:35.480 chat[4667:27491] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:29:35.657 chat[4667:27491] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:29:35.835 chat[4667:27491] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/9D857B02-0F74-421E-BA81-40098E94B0A8/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:29:58.866 chat[4846:28009] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/1654305F-E03D-4BB8-92B4-CE17305A175B/Library/Cookies/Cookies.binarycookies
+2014-12-18 18:29:58.977 chat[4846:28009] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-18 18:29:58.978 chat[4846:28009] Multi-tasking -> Device: YES, App: YES
+2014-12-18 18:29:58.979 chat[4846:28009] Unlimited access to network resources
+2014-12-18 18:29:59.200 chat[4846:28009] [CDVTimer][keyboard] 0.110984ms
+2014-12-18 18:29:59.201 chat[4846:28009] [CDVTimer][TotalPluginStartup] 0.330985ms
+2014-12-18 18:29:59.264 chat[4846:28009] Resetting plugins due to page load.
+2014-12-18 18:29:59.789 chat[4846:28009] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/index.html#/tab/dash
+2014-12-18 18:30:03.904 chat[4846:28009] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-18 18:30:04.566 chat[4846:28009] ERROR: Error: undefined is not an object (evaluating '$scope.Chats.$add')
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/js/app.js:36:21
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/76FE1F35-0E6E-4377-BEA6-E913F61D0ABD/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-19 11:51:26.127 chat[9220:66691] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/BE788D6D-0F11-4731-AAE0-7951C50F79BC/Library/Cookies/Cookies.binarycookies
+2014-12-19 11:51:26.695 chat[9220:66691] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-19 11:51:26.695 chat[9220:66691] Multi-tasking -> Device: YES, App: YES
+2014-12-19 11:51:26.729 chat[9220:66691] Unlimited access to network resources
+2014-12-19 11:51:27.044 chat[9220:66691] [CDVTimer][keyboard] 0.060976ms
+2014-12-19 11:51:27.044 chat[9220:66691] [CDVTimer][TotalPluginStartup] 0.248969ms
+2014-12-19 11:51:28.306 chat[9220:66691] Resetting plugins due to page load.
+2014-12-19 11:51:29.781 chat[9220:66691] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/AB334E84-5A57-4F55-8E7D-B39ABE991736/chat.app/www/index.html#/tab/dash
+2014-12-19 11:53:11.692 chat[9442:67468] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Data/Application/1B83773A-D6E6-451C-919E-D2B6802CCA43/Library/Cookies/Cookies.binarycookies
+2014-12-19 11:53:11.968 chat[9442:67468] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-19 11:53:11.968 chat[9442:67468] Multi-tasking -> Device: YES, App: YES
+2014-12-19 11:53:11.970 chat[9442:67468] Unlimited access to network resources
+2014-12-19 11:53:12.279 chat[9442:67468] [CDVTimer][keyboard] 0.059009ms
+2014-12-19 11:53:12.279 chat[9442:67468] [CDVTimer][TotalPluginStartup] 0.249028ms
+2014-12-19 11:53:12.921 chat[9442:67468] Resetting plugins due to page load.
+2014-12-19 11:53:13.853 chat[9442:67468] Finished load of: file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/FFE0F01C-72F4-461F-ACD4-06231D5822BE/chat.app/www/index.html#/tab/dash
+2014-12-19 11:53:33.186 chat[9442:67468] ERROR: Error: Key img was undefined. Cannot pass undefined in JSON. Use null instead.
+https://cdn.firebase.com/libs/angularfire/0.9.0/angularfire.min.js:12:36941
+forEach@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/FFE0F01C-72F4-461F-ACD4-06231D5822BE/chat.app/www/lib/ionic/js/ionic.bundle.js:8155:24
+toJSON@https://cdn.firebase.com/libs/angularfire/0.9.0/angularfire.min.js:12:36766
+$add@https://cdn.firebase.com/libs/angularfire/0.9.0/angularfire.min.js:12:550
+[native code]
+save@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/FFE0F01C-72F4-461F-ACD4-06231D5822BE/chat.app/www/js/controllers.js:15:19
+$parseFunctionCall@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/FFE0F01C-72F4-461F-ACD4-06231D5822BE/chat.app/www/lib/ionic/js/ionic.bundle.js:20124:23
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/FFE0F01C-72F4-461F-ACD4-06231D5822BE/chat.app/www/lib/ionic/js/ionic.bundle.js:50863:21
+$eval@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/FFE0F01C-72F4-461F-ACD4-06231D5822BE/chat.app/www/lib/ionic/js/ionic.bundle.js:22178:28
+$apply@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/FFE0F01C-72F4-461F-ACD4-06231D5822BE/chat.app/www/lib/ionic/js/ionic.bundle.js:22276:28
+file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/FFE0F01C-72F4-461F-ACD4-06231D5822BE/chat.app/www/lib/ionic/js/ionic.bundle.js:50862:19
+eventHandler@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/FFE0F01C-72F4-461F-ACD4-06231D5822BE/chat.app/www/lib/ionic/js/ionic.bundle.js:10823:25
+dispatchEvent@[native code]
+triggerMouseEvent@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/FFE0F01C-72F4-461F-ACD4-06231D5822BE/chat.app/www/lib/ionic/js/ionic.bundle.js:2811:20
+tapClick@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/FFE0F01C-72F4-461F-ACD4-06231D5822BE/chat.app/www/lib/ionic/js/ionic.bundle.js:2800:20
+tapTouchEnd@file:///Users/henrykaufman/Library/Developer/CoreSimulator/Devices/09772100-7EF7-4061-839C-CB02D914C0E5/data/Containers/Bundle/Application/FFE0F01C-72F4-461F-ACD4-06231D5822BE/chat.app/www/lib/ionic/js/ionic.bundle.js:2918:13
+2014-12-19 13:35:33.752 chat[9442:67540] CFNetwork SSLHandshake failed (-9806)

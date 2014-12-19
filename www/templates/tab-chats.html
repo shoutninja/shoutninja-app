@@ -1,0 +1,24 @@
+<ion-view view-title="Chats">
+    <ion-content>
+        <ion-list ng-repeat="chat in chats">
+            <ion-item class="item-remove-animate item-avatar item-icon-right">
+                <img ng-src="{{chat.img}}" style="height: 100px; width: 100px">
+                <h2>{{chat.user}}</h2>
+                <p>{{chat.message}}</p>
+            </ion-item>
+        </ion-list>
+        <form>
+            <label class="item item-input">
+                <input type="text" name="name" ng-model="chat.user" placeholder="Username">
+            </label>
+            <label class="item item-input">
+                <input type="text" name="message" ng-model="chat.message" placeholder="Message">
+            </label>
+            <label class="item item-input">
+                <input type="text" name="img" ng-model="chat.img" placeholder="Paste a link to an image.">
+            </label>
+            <br>
+            <button ng-click="save(chat)" class="button button-block button-royal">Save</button>
+        </form>
+    </ion-content>
+</ion-view>
