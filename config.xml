@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<widget id="com.ionicframework.chat743475" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>chat</name>
+<widget id="com.ionicframework.chat743475" version="0.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Shout.Ninja</name>
     <description>
-        An Ionic Framework and Cordova project.
+        Shout.Ninja an innnovative new way to communicate.
     </description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">
-        Ionic Framework Team
+    <author email="henry@shout.ninja" href="https://shout.ninja">
+        Shout.Ninja Team
     </author>
     <content src="index.html" />
     <access origin="*" />
