@@ -43,6 +43,8 @@
 		5CD219B028DD48BEB5C79A6D /* UIWebViewExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 13C9161ABDDF4A8281D2AF2F /* UIWebViewExtension.m */; };
 		817CE86E37AC47869EC60C79 /* CDVLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = CA6FA8BE05564C7B8F66ADB4 /* CDVLogger.m */; };
 		ABB3F68C0B324440A3AFA56F /* CDVDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = 81B2BD9C981D47D6B5647F7D /* CDVDevice.m */; };
+		3A2CC71FEC0B40F7AD89E720 /* CDVInAppBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EAD96F4D1FD410EB9FBFD9C /* CDVInAppBrowser.m */; };
+		6F5DED84A7774A5097A1D0E6 /* CDVCookies.m in Sources */ = {isa = PBXBuildFile; fileRef = 41F795063C864D46882068E9 /* CDVCookies.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -116,6 +118,10 @@
 		7789F9B84A504D0DAD164E75 /* CDVLogger.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVLogger.h"; path = "org.apache.cordova.console/CDVLogger.h"; sourceTree = "<group>"; fileEncoding = 4; };
 		81B2BD9C981D47D6B5647F7D /* CDVDevice.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVDevice.m"; path = "org.apache.cordova.device/CDVDevice.m"; sourceTree = "<group>"; fileEncoding = 4; };
 		A5F0E217D8314EFA8BC5BE34 /* CDVDevice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVDevice.h"; path = "org.apache.cordova.device/CDVDevice.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		0EAD96F4D1FD410EB9FBFD9C /* CDVInAppBrowser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVInAppBrowser.m"; path = "org.apache.cordova.inappbrowser/CDVInAppBrowser.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		434159D623D44C74B1CB0425 /* CDVInAppBrowser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVInAppBrowser.h"; path = "org.apache.cordova.inappbrowser/CDVInAppBrowser.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		41F795063C864D46882068E9 /* CDVCookies.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVCookies.m"; path = "com.bez4pieci.cookies/CDVCookies.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		1286FB2B53D342BF91A8DA33 /* CDVCookies.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVCookies.h"; path = "com.bez4pieci.cookies/CDVCookies.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,6 +228,10 @@
 				7789F9B84A504D0DAD164E75 /* CDVLogger.h */,
 				81B2BD9C981D47D6B5647F7D /* CDVDevice.m */,
 				A5F0E217D8314EFA8BC5BE34 /* CDVDevice.h */,
+				0EAD96F4D1FD410EB9FBFD9C /* CDVInAppBrowser.m */,
+				434159D623D44C74B1CB0425 /* CDVInAppBrowser.h */,
+				41F795063C864D46882068E9 /* CDVCookies.m */,
+				1286FB2B53D342BF91A8DA33 /* CDVCookies.h */,
 			);
 			name = Plugins;
 			path = "chat/Plugins";
@@ -410,6 +420,8 @@
 				5CD219B028DD48BEB5C79A6D /* UIWebViewExtension.m in Sources */,
 				817CE86E37AC47869EC60C79 /* CDVLogger.m in Sources */,
 				ABB3F68C0B324440A3AFA56F /* CDVDevice.m in Sources */,
+				3A2CC71FEC0B40F7AD89E720 /* CDVInAppBrowser.m in Sources */,
+				6F5DED84A7774A5097A1D0E6 /* CDVCookies.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

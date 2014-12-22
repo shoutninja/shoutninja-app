@@ -19,6 +19,24 @@
                         {
                             "xml": "<feature name=\"Device\"><param name=\"ios-package\" value=\"CDVDevice\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"InAppBrowser\"><param name=\"ios-package\" value=\"CDVInAppBrowser\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Cookies\"><param name=\"ios-package\" value=\"CDVCookies\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "framework": {
+                "parents": {
+                    "CoreGraphics.framework": [
+                        {
+                            "xml": "false",
+                            "count": 1
                         }
                     ]
                 }
@@ -33,6 +51,12 @@
             "PACKAGE_NAME": "com.ionicframework.chat743475"
         },
         "org.apache.cordova.device": {
+            "PACKAGE_NAME": "com.ionicframework.chat743475"
+        },
+        "org.apache.cordova.inappbrowser": {
+            "PACKAGE_NAME": "com.ionicframework.chat743475"
+        },
+        "com.bez4pieci.cookies": {
             "PACKAGE_NAME": "com.ionicframework.chat743475"
         }
     },

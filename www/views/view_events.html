@@ -1,0 +1,61 @@
+<ion-view view-title="Events">
+    <ion-content class="padding">
+        <div class="mainevents">
+            <div class="list list-inset">
+                <label class="item item-input">
+                    <i class="icon ion-search placeholder-icon"></i>
+                    <input type="text" placeholder="Search" ng-model="searchText">
+                </label>
+            </div>
+            <br>
+            <br>
+            <br>
+            <form>
+                <div class="list list-inset">
+                    <label class="item item-input">
+                        <input type="text" placeholder="Event Name" ng-model="formData.name">
+                    </label>
+                    <label class="item item-input">
+                        <input type="text" placeholder="Event Description" ng-model="formData.description">
+                    </label>
+                    <button ng-click="submitForm()" class="button button-outline button-block button-positive">Shout It!</button>
+                </div>
+            </form>
+            <div ng-repeat="event in events | filter:searchText | orderBy:'voteCount':true" ng-controller="ninja.shout.index.events.event" class="list card">
+                <div class="item item-avatar">
+                    <img src="">
+                    <h2><span ng-bind="event.name"></span></h2>
+                    <p><span>Date will go here!</span>
+                    </p>
+                </div>
+                <div class="item item-body">
+                    <img class="full-image" src="">
+                    <p>
+                        <span ng-bind="event.description"></span>
+                    </p>
+                    <p>
+                        <span ng-bind="voteCount"></span>
+                        <a href="#" class="subdued">5 Comments</a>
+                    </p>
+                </div>
+
+                <div class="item tabs tabs-secondary tabs-icon-left">
+                    <a class="tab-item" ng-click="addVote(event)">
+                        <i class="icon ion-thumbsup"></i>
+                        Like
+                    </a>
+                    <a class="tab-item" ng-click="detailEvent(event)">
+                        <i class="icon ion-chatbox"></i>
+                        Comment
+                    </a>
+                    <a class="tab-item" href="#">
+                        <i class="icon ion-share"></i>
+                        Share
+                    </a>
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+    </ion-content>
+</ion-view>

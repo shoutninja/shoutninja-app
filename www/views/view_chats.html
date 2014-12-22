@@ -1,0 +1,30 @@
+<ion-view view-title="Chats">
+    <ion-content class="padding">
+        <div ng-controller="ninja.shout.chats" id="chats">
+            <div class="list">
+                <div ng-repeat="chat in chats">
+                    <a ng-href="{{chat.user.href}}" class="item item-avatar">
+                        <img class="profile-photo" ng-src="{{chat.user.image}}" alt="Profile">
+                        <h2><span ng-bind="chat.user.username" class="username"></span></h2>
+                        <p><span ng-bind="chat.text"></span>
+                        </p>
+                        <span ng-bind="toDate(chat) | date:'MMM d, y h:mm a'" style="font-size:8pt"></span>
+                    </a>
+                </div>
+            </div>
+            <form class="list">
+                <a class="item item-avatar">
+                    <img ng-src="{{formData.user.image}}" alt="Profile">
+                    <h2>
+                        <input type="text" ng-model="formData.user.username" />
+                    </h2> 
+                    <p>
+                        <input type="text" ng-model="formData.text" placeholder="Don't Ninja and Drive." />
+                    </p>
+                    <button class="button button-positive button-block button-outline" ng-click="submitForm()">Shout</button>
+                    <button class="button button-assertive button-block button-outline" ng-click="clearChats()">Clear</button>
+                </a>
+            </form>
+        </div>
+    </ion-content>
+</ion-view>

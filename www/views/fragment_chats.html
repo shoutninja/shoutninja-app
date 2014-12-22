@@ -1,0 +1,40 @@
+<ion-view>
+    <ion-content class="padding">
+        <div ng-controller="ninja.shout.chats" ng-class="sidebar?'chatsSidebar':'chats'" id="chats">
+            <h3>Chat</h3>
+            <div scroll-glue class="chatScroller">
+                <div ng-repeat="chat in chats">
+                    <a ng-href="{{chat.user.href}}">
+                        <img class="profile-photo" ng-src="{{chat.user.image}}" alt="Profile">
+                    </a>
+                    <!--<span ng-show="$scope.authData"><i class="fa fa-check"></i></span>-->
+                    <div class="content">
+                        <a ng-href="{{chat.user.href}}"><span ng-bind="chat.user.username" class="username"></span></a>
+                        <a href ng-click="$location.path('/help/verifiedUsers')">
+                            <i ng-show="chat.user.uid" class="fa fa-check-square"></i>
+                        </a>
+                        <br/>
+                        <span ng-bind="toDate(chat) | date:'MMM d, y h:mm a'" style="font-size:8pt"></span>
+                        <br>
+                        <span ng-bind="chat.text"></span>
+                        <br>
+                        <hr>
+                    </div>
+                </div>
+            </div>
+            <form class="addChats">
+                <div class="chat-row">
+                    <input type="text" ng-model="formData.text" placeholder="Don't Ninja and Drive." class="chat-text" />
+                </div>
+                <button class="btn btn-success addChatBtn" ng-click="submitForm()"><i class="fa fa-comment"></i>
+                </button>
+                <div class="chat-row">
+                    <img class="profile-photo" ng-src="{{formData.user.image}}" alt="Profile">
+                    <input type="text" ng-model="formData.user.username" class="chat-username" />
+                </div>
+                <button class="btn btn-warning addChatBtn" ng-click="clearChats()"><i class="fa fa-times"></i>
+                </button>
+            </form>
+        </div>
+    </ion-content>
+</ion-view>
